@@ -29,3 +29,7 @@ This chart shows the variability in app sizes within each category, highlighting
 4.Number of Apps by Installs
 ![Untitled](https://github.com/Ganesh-VG/Play-Store-App-Review-Analysis/assets/144704167/c28f1552-d12a-4ab8-8e48-12b20c539abc)
 The chart highlights the distribution of apps based on their install counts, showing how many apps have achieved the target of most installs and indicating the general popularity or reach of apps among the consumers. Businesses can compare their app with performanceof other apps and set target to upgade its category in the most competitive market by adjusting their strategies to target more customers. High competition in certain category  might require more resources for apps to stand out, potentially leading to increased marketing costs.
+
+5.Ratings by Category
+![Untitled](https://github.com/Ganesh-VG/Play-Store-App-Review-Analysis/assets/144704167/54c5db7a-b6e3-4a37-8e40-0e298112f181)
+The chart reveals which categories generally have higher or lower ratings and shows the variability of ratings within each category, helping to identify categories with consistent quality or those with mixed user feedback. Businesses can evaluate their app based on the category it belongs to by comparing their app with the category data available in the chart. It will help the developers with apps in multiple categories the most.Categories with low or highly variable ratings may require quality improvements to avoid negative user perceptions and attrition.
