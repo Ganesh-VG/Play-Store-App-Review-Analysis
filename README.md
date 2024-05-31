@@ -5,11 +5,11 @@ It aids strategic decision-making by helping app developers and businesses under
 Link to my tableau dashboard = "https://public.tableau.com/views/PlayStoreAppDataAnalysis_17167216565730/CategoricalReview?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link"
 
 Play Store App Reviews Analysis: Ratings and Sentiments Overview
-![image](https://github.com/Ganesh-VG/Play-Store-App-Review-Analysis/assets/144704167/0dc3d468-41cf-42b2-8364-d6443023c2cd)
+![image](https://github.com/Ganesh-VG/Play-Store-App-Review-Analysis/assets/144704167/0d98397c-9852-4f7d-b141-7dcc05f993c1)
 It visualizes key metrics such as the distribution of app ratings, the frequency of reviews, and the correlation between ratings and review sentiments. The dashboard is designed to help users quickly identify trends and patterns in user feedback, allowing for a deeper understanding of how apps are perceived by their audience. By leveraging interactive elements, users can filter and drill down into specific data points, making it a valuable tool for developers and marketers aiming to enhance app performance and user satisfaction.
 
 Play Store App Reviews Insight: Trends, Keywords, and Sentiments
-![image](https://github.com/Ganesh-VG/Play-Store-App-Review-Analysis/assets/144704167/8acd4447-01c9-47c2-a4b4-6615328487fe)
+![image](https://github.com/Ganesh-VG/Play-Store-App-Review-Analysis/assets/144704167/93d447f9-1926-4c40-a1c5-e92031f01e61)
  It showcases detailed visualizations that illustrate the distribution of app ratings, the volume of reviews over time, and the relationship between review sentiments and star ratings. This dashboard enables users to identify key trends and insights, such as the most frequently mentioned keywords in reviews and the overall sentiment analysis. By incorporating interactive filters and drill-down capabilities, the dashboard facilitates a deeper exploration of the data, making it an invaluable resource for app developers and marketers looking to improve user engagement and app performance.
  
  Let us look at some of the python visualizations and the data insights given by them.
